@@ -1,0 +1,131 @@
+/* 
+  Localizable.strings
+  acqustic
+
+  Created by Javier Garcés on 29/01/2020.
+  Copyright © 2020 Foxtenn. All rights reserved.
+*/
+
+"app_name" = "Acqustic";
+"app_name_dialogs" = "Acqustic";
+"lang" = "es";
+
+// ---------------------------
+// SERVER ERRORS
+// ---------------------------
+"server_error_networknotavailable" = "En este momento no tienes conexión a Internet. Por favor, revisa tu cobertura y prueba más tarde.";
+"server_error_generico" = "En este momento no podemos contactar con el servidor de Acqustic. Por favor, revisa tu cobertura y prueba más tarde.";
+
+// ---------------------------
+// BOTONES GENERALES
+// ---------------------------
+"button_back" = "Volver";
+"button_backhome" = "Volver al inicio";
+"button_send" = "Enviar";
+"btn_aceptar" = "Aceptar";
+"btn_cancelar" = "Cancelar";
+"btn_si" = "Sí";
+"btn_no" = "No";
+
+
+// ---------------------------
+// CLASSES.UI
+// ---------------------------
+"budgetfullcard_idservicio" = "ID del servicio";
+"budgetfullcard_costegestion" = "Coste de gestión";
+"budgetfullcard_costeservicio" = "Coste de servicio";
+"budgetfullcard_iva" = "IVA";
+"budgetfullcard_total" = "Total";
+
+"budgetsmallcard_costegestion" = "Coste de gestión";
+"budgetsmallcard_costeservicio" = "Coste de servicio";
+"budgetsmallcard_iva" = "IVA";
+"budgetsmallcard_total" = "Total";
+
+"cardoption_borrar" = "Borrar";
+
+"headernav_guardar" = "Guardar";
+
+"headersearchhome_placeholder" = "¿Qué necesitas?";
+
+"tourslide1view_text" = "Encuentra todo lo que necesitas en una sola app";
+"tourslide2view_text" = "Chatea con nuestros asistentes y pide lo que quieras";
+"tourslide3view_text" = "Disfruta de tu tiempo en las cosas que realmente importan";
+
+
+// ---------------------------
+// PAGES
+// ---------------------------
+"pagechats_pideloquequieras" = "Pídenos lo que quieras";
+"pagechats_pideloquequieras_banner" = "Pídenos lo\nque quieras";
+"pagechats_deletetask" = "¿Quieres eliminar este chat?";
+
+"pagechat_formatdate_yesterday" = "Ayer a las %@";
+"pagechat_formatdate_yesterdayonly" = "Ayer";
+"pagechat_select_title" = "Seleccionar %@";
+"pagechat_address_error" = "Por favor rellena todos los datos";
+"pagechat_freetext_error" = "Por favor rellena el campo de información";
+"pagechat_vtoolbudget_btnok" = "Iniciar contratación";
+"pagechat_vtoolbudget_btnko" = "Rechazar";
+"pagechat_vtooladdress_address" = "Dirección";
+"pagechat_vtooladdress_postcode" = "Código postal";
+"pagechat_vtooladdress_city" = "Población";
+"pagechat_vtooladdress_btnok" = "Enviar";
+"pagechat_vtoolselect_btnselect" = "Seleccionar";
+"pagechat_vtoolboolean_btnok" = "Sí";
+"pagechat_vtoolboolean_btnko" = "No";
+"pagechat_vtoolrating_label" = "Por favor, valora tu experiencia";
+"pagechat_vtoolrating_btnok" = "Enviar";
+"pagechat_vtoolclosedchat_label" = "Servicio finalizado";
+"pagechat_vtoolclosedchat_btnok" = "Pídelo de nuevo";
+
+"pagelogin_title" = "Estás a un paso de\nconocer todo lo que\npodemos hacer por ti.";
+"pagelogin_email" = "Email";
+"pagelogin_password" = "Contraseña";
+"pagelogin_btnlogin" = "ACCEDER";
+"pagelogin_btnregister" = "REGISTRARTE";
+"pagelogin_recover" = "Recupera tu contraseña Aquí";
+"pagelogin_register" = "¿Aún no tienes cuenta? REGÍSTRATE";
+"pagelogin_error_validemail" = "Debes indicar un email válido para entrar";
+"pagelogin_error_password" = "Debes indicar una contaseña para entrar";
+"pagelogin_error_invalid" = "Debes indicar un email y contaseña válidos para entrar";
+"pagelogin_error_notregistered" = "Lo sentimos, pero ahora mismo estamos tramitando tu cuenta. Te enviaremos un email con tus datos de activación.";
+"pagelogin_error_notactivated" = "Parece que no has activado tu nueva cuenta. Por favor, revisa tu correo electrónico y confirma tu cuenta mediante el link proporcionado.";
+
+"pagerecover_email" = "Email";
+"pagerecover_btnrecover" = "RECUPERAR";
+"pagerecover_login" = "¿Recuerdas tu contraseña? Login";
+"pagerecover_success" = "En breve recibirás un email con la opción de recuperar su contraseña.";
+"pagerecover_error_validemail" = "Debes indicar un email válido para solicitar la recuperación.";
+"pagerecover_error_invalid" = "Debes indicar un email válido para recuperar tu contraseña";
+"pagerecover_error_notregistered" = "Lo sentimos, pero ahora mismo estamos tramitando tu cuenta. Te enviaremos un email con tus datos de activación.";
+"pagerecover_error_notactivated" = "Parece que no has activado tu nueva cuenta. Por favor, revisa tu correo electrónico y confirma tu cuenta mediante el link proporcionado.";
+
+"pageregister_name" = "Nombre";
+"pageregister_surname" = "Apellidos";
+"pageregister_email" = "Email";
+"pageregister_telephone" = "Teléfono";
+"pageregister_city" = "Ciudad";
+"pageregister_password" = "Contraseña";
+"pageregister_group" = "Nombre de tu grupo musical";
+"pageregister_btnregister" = "Acceder";
+"pageregister_lopd" = "Estoy de acuerdo con los términos de uso y política de privacidad de Acqustic";
+"pageregister_login" = "Cancelar";
+"pageregister_error_name" = "Debes indicar tu nombre para registrarte";
+"pageregister_error_surname" = "Debes indicar tus apellidos para registrarte";
+"pageregister_error_validemail" = "Debes indicar un email válido para registrarte";
+"pageregister_error_password" = "Debes indicar una contaseña para registrarte";
+"pageregister_error_lopd" = "Debes aceptar los términos de uso para continuar";
+"pageregister_error_registered" = "Esta dirección de correo electrónico ya está registrada";
+"pageregister_error_invalid" = "Ha habido algún problema al intentar darte de alta. Prueba más tarde.";
+"pageregister_error_notregistered" = "Vamos a tramitar tu solicitud de registro. En breve recibirás un e-mail con información para validar tu nueva cuenta.";
+"pageregister_error_notactivated" = "Te hemos enviado un e-mail para que valides tu cuenta.";
+
+/*
+ VERSION UPDATE
+ */
+"version_newversion_msg" = "Hay una versión más reciente de Acqustic. Te recomendamos que actualices la App.";
+"version_newversion_go" = "Ir a la App Store";
+"version_newversion_cancel" = "Cancelar";
+
+
